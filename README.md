@@ -15,15 +15,19 @@ Get read time from a Draft.js content state, based on Medium algorithm.
 
 Simply import Draft ReadTime:
 
-    // ES5
-    var readTime require('draft-read-time');
-    
-    // ES6
-    import readTime from 'draft-read-time';
+```javascript
+// ES5
+var readTime require('draft-read-time');
+
+// ES6
+import readTime from 'draft-read-time';   
+```
 
 Get read time by passing a Draft.JS content state to readTime function:
 
-    readTime(contentState);
+```javascript
+var time = readTime(contentState); // Returns time in minutes
+```
 
 ## Contributing
 
