@@ -1,0 +1,19 @@
+{
+  "name": "draft-read-time",
+  "version": "0.1.0",
+  "description": "Get read time from a Draft.js content state, based on Medium algorithm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damien-monni/draft-read-time.git"
+  },
+  "author": "Damien Monni <contact@damien-monni.com> (https://www.damien-monni.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/damien-monni/draft-read-time/issues"
+  },
+  "homepage": "https://github.com/damien-monni/draft-read-time#readme"
+}
