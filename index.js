@@ -1,5 +1,4 @@
 /**
- * Adds commas to a number
  * Get read time from a DraftJS content state
  * Counts the number of words and divide by 275.
  * Adds 12s for the first image, 11s for the second, etc... until reaching
